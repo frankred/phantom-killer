@@ -1,0 +1,26 @@
+{
+  "name": "phantom-killer",
+  "version": "0.0.1",
+  "description": "Node module to kill all phantomjs processes on your windows or linux machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankred/phantom-killer.git"
+  },
+  "keywords": [
+    "phantomjs",
+    "killer"
+  ],
+  "author": "Frank Roth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frankred/phantom-killer/issues"
+  },
+  "homepage": "https://github.com/frankred/phantom-killer#readme",
+  "dependencies": {
+    "debug": "^2.2.0"
+  }
+}
